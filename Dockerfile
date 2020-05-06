@@ -8,7 +8,7 @@ RUN pip install -r /requirements.txt
 
 RUN mkdir /app
 WORKDIR /app
-COPY ./app /app
+COPY ./pyrea_music /app
 
 RUN adduser --disabled-password user
 USER user
