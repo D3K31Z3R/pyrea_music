@@ -20,7 +20,7 @@ psycopg2==2.8.5
 pycodestyle==2.5.0
 pycparser==2.20
 pyflakes==2.1.1
-pyjwt==1.7.1
+pyjwt==2.4.0
 pytz==2020.1
 rx==1.6.1
 singledispatch==3.4.0.3
